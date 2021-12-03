@@ -5,6 +5,8 @@ AAAAB3NzaC1yc2EAAAADAQABAAABAQDgEIsMJE9zl+YBx4AODJQOuuvKcvi75dhG9EZdsieJpErTfabg
 
 MDCf77k7ivG6ZVz33PVSr4NwGQ
 
+If you'd like to donate to aid in development of future projects:
+z1qpp32t3uctrelxpwdq9wrz8avh0njpsvcy8ewc
 
 Current projects: 
 
