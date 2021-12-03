@@ -5,7 +5,9 @@ AAAAB3NzaC1yc2EAAAADAQABAAABAQDgEIsMJE9zl+YBx4AODJQOuuvKcvi75dhG9EZdsieJpErTfabg
 
 Current projects: 
 
-https://nodez.space
-https://nodes-space.medium.com
-https://localzenon.space  -- COMING SOON
+-  https://nodez.space
+
+-  https://nodes-space.medium.com
+
+-  https://localzenon.space  -- COMING SOON
 
