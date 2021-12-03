@@ -13,9 +13,7 @@ z1qpp32t3uctrelxpwdq9wrz8avh0njpsvcy8ewc
 
 Current projects: 
 
--  https://nodez.space
+-  ZENON NaaS -- https://nodez.space / https://nodes-space.medium.com
 
--  https://nodes-space.medium.com
-
--  https://localzenon.space  -- COMING SOON
+-  ZENON P2P Marketplace -- https://localzenon.space  -- COMING SOON
 
